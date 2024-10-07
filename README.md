@@ -27,7 +27,7 @@ Fifth-semester GAT student with having experience in Game Programming using Unit
       
   <tr width="500px" align="center">
     <td><img src="" height="200px"></td>
-    <td><img src="" height="200px"></td>
+    <td><img src="https://github.com/paundra0217/paundra0217/blob/main/images/image.png?raw=true" height="200px"></td>
   </tr>
     
   <tr width="500px">
