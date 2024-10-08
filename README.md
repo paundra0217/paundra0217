@@ -12,7 +12,7 @@ Fifth-semester GAT student with having experience in Game Programming using Unit
     </tr>
   <tbody>
   <tr width="500px" align="center">
-  <td><img src="https://github.com/user-attachments/assets/50d90b91-a025-40c3-97e9-b4ec1b483c39" height="200px"></td>
+  <td><img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4" height="200px"></td>
   <td><img src="https://github.com/user-attachments/assets/9f838ca6-e88c-4a05-8dc5-2ea093b00a41" height="200px"></td>
   </tr>
   
