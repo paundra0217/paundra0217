@@ -20,12 +20,12 @@ Itch.io : https://bgdc.itch.io/peak
 This project using Unity 2022.3.12f1
 
 Developers:
-- Paundra Amirtha Tanto (Programming)
 - Vincent Pho Wijaya (Team Manager, Design, and Story)
+- Ariq Bimo Nurputro (Supervisor)
+**- Paundra Amirtha Tanto (Programming)**
 - Bagas Hidayat (Artist)
 - Nathania Joscelind (Artist and Animation)
 - Nicholas Van Lukman (Sound)
-- Ariq Bimo Nurputro (Supervisor)
 
 <br>
 
