@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" alt="prostir" src="https://private-user-images.githubusercontent.com/152774154/374261960-2be270e9-a073-4033-9f04-e94828dda4e4.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA1MTUxNTcsIm5iZiI6MTczMDUxNDg1NywicGF0aCI6Ii8xNTI3NzQxNTQvMzc0MjYxOTYwLTJiZTI3MGU5LWEwNzMtNDAzMy05ZjA0LWU5NDgyOGRkYTRlNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwMlQwMjM0MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZTY5YzliY2I0NWM3MDlkZGQxNjAyNmIyNjliNzIxODg4NzIyNTliNzJiYzRiN2Y4ZjcwNzlkZjQwOTMwOGM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Rn-eEbXA0x3QodgPqNd4QX3CLsmId0EchibPIdkwUEE">
+  <img width="50%" alt="prostir" src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4">
   </br>
 </p>
 
