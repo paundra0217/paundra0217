@@ -16,6 +16,9 @@ Itch.io : https://bgdc.itch.io/peak
 | Space        | Jump             |
 | Q       | Soar   |
 
+## 💼 My Responsilibites
+As the sole programmer on this 2D game project, I was responsible for the entire development pipeline. This included designing and implementing game mechanics, creating interactive environments, and developing the player character's movement and abilities. I integrated various assets, such as sprites and sound effects, to bring the game world to life. Through meticulous testing and debugging, I delivered a polished and enjoyable gaming experience.
+
 ## 📋 Project Info and Developers
 This project using Unity 2022.3.12f1 ([Repository Link](https://github.com/paundra0217/TG7T6))
 
