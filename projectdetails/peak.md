@@ -17,7 +17,7 @@ Itch.io : https://bgdc.itch.io/peak
 | Q       | Soar   |
 
 ## 📋 Project Info and Developers
-This project using Unity 2022.3.12f1
+This project using Unity 2022.3.12f1 ([Repository Link](https://github.com/paundra0217/TG7T6))
 
 Developers:
 - Vincent Pho Wijaya (Team Manager, Design, and Story)
