@@ -22,7 +22,7 @@ As the sole programmer on this ongoing project, I am currently responsible for t
 This project using Unity 2023.2.15f1
 
 Developers:
-**- Paundra Amirtha Tanto (Programming)**
+- **Paundra Amirtha Tanto (Programming)**
 - Ariq Bimo Nurputro (3D Artist)
 - Jonathan Oyong (3D Artist)
 
