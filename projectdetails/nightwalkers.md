@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="50%" alt="prostir" src="https://github.com/paundra0217/paundra0217/blob/main/images/Video%20tanpa%20judul%20(2).gif">
+  <img width="50%" alt="prostir" src="https://github.com/user-attachments/assets/3d852ab0-cb17-45fa-ba10-9cecc6d1563c">
   </br>
 </p>
 
