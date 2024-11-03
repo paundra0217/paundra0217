@@ -2,7 +2,9 @@
 
 ## About Me
 
-Fifth-semester GAT student with having experience in Web Programming and Game Programming and made several projects, with full stack expereince in Web Programming and specialization in creating game user interfaces and some functional features in game programming.
+Dedicated Game Programmer that is passionate about crafting captivating and enjoyable gaming experiences that push the boundaries of interactive entertainment using Unity. Eager to apply my technical skills and creativity to contribute to innovative game development projects.
+
+Currently pursuing a Computer Science degree at X University, with specialization in Game Application and Technology.
 
 ## ✨Featured Projects
 
