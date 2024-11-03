@@ -4,7 +4,7 @@
 </p>
 
 ## 🔴About
-**Peak** is a 2D platformer game that tells a story about a young man who is trying to climb to the top of a mountain. Your task is to try to climb to the top of the mountain while explore many different places and enviroments through the mountain and avoid obstacles while maintaining stamina and health.
+**Peak** is a 2D platformer game that tells a story about a young man who is trying to climb to the top of a mountain. Your task is to try to climb to the top of the mountain while explore many different places and environments through the mountain and avoid obstacles while maintaining stamina and health.
 
 ## ⬇️Download Game
 Itch.io : https://bgdc.itch.io/peak
