@@ -4,7 +4,7 @@
 
 Dedicated Game Programmer that is passionate about crafting captivating and enjoyable gaming experiences that push the boundaries of interactive entertainment using Unity. Eager to apply my technical skills and creativity to contribute to innovative game development projects.
 
-Currently pursuing a Computer Science degree at X University, with specialization in Game Application and Technology.
+Currently pursuing a Computer Science degree at BINUS University, with specialization in Game Application and Technology.
 
 ## ✨Featured Projects
 
