@@ -11,28 +11,28 @@ Currently pursuing a Computer Science degree at BINUS University, with specializ
 <table>
       <tbody>
     <tr>
-        <th width="500px" align="center"> <a href="https://nezux.itch.io/731-batavia-outbreak">Batavia Outbreak (WIP)</th>
-      <th width="500px" align="center"> <a href="https://xviig.itch.io/echoes-beneath">Echoes Beneath</th>
+        <th width="500px" align="center"> <a href="https://nezux.itch.io/731-batavia-outbreak" target="_blank">Batavia Outbreak (WIP)</th>
+      <th width="500px" align="center"> <a href="https://xviig.itch.io/echoes-beneath" target="_blank">Echoes Beneath</th>
     </tr>
   <tr width="500px" align="center">
       <td><img src="https://github.com/paundra0217/paundra0217/blob/main/images/Video%20tanpa%20judul%20(2).gif" height="200px"></td>
     <td><img src="https://github.com/user-attachments/assets/2be270e9-a073-4033-9f04-e94828dda4e4" height="200px"></td>
   </tr>
   <tr width="500px">
-      <td>Batavia Outbreak is a 3D top down shooter game which tells about a survivor who's exploring a place in which were swarmed by infectious creatures. My responsibilities as a programmer are everything, including implementing mechanics, object interactivity, and user interfaces from prototyping to a final polished product. This is an ongoing project and the end result may be different. <a href="https://github.com/paundra0217/batavia-outbreak">More Information</a></td>
-    <td>Echoes Beneath is a short duration 3D Horror Game which tells about a plumber who is doing his normal shift in the sewers when suddenly a strange occurrences happens inside his workplace. My responsibilites are creating user interfaces and several backends to make the game functional. <a href="https://github.com/paundra0217/Echoes_Beneath">More Information</a></td>
+      <td>Batavia Outbreak is a 3D top down shooter game which tells about a survivor who's exploring a place in which were swarmed by infectious creatures. My responsibilities as a programmer are everything, including implementing mechanics, object interactivity, and user interfaces from prototyping to a final polished product. This is an ongoing project and the end result may be different. <a href="https://github.com/paundra0217/batavia-outbreak" target="_blank">More Information</a></td>
+    <td>Echoes Beneath is a short duration 3D Horror Game which tells about a plumber who is doing his normal shift in the sewers when suddenly a strange occurrences happens inside his workplace. My responsibilites are creating user interfaces and several backends to make the game functional. <a href="https://github.com/paundra0217/Echoes_Beneath" target="_blank">More Information</a></td>
   </tr>
   <tr>
       <th width="500px" align="center"> Nightwalkers</th>
-    <th width="500px"> <a href="https://bgdc.itch.io/peak">Peak</th>
+    <th width="500px"> <a href="https://bgdc.itch.io/peak" target="_blank">Peak</th>
   </tr>
   <tr width="500px" align="center">
           <td><img src="https://github.com/user-attachments/assets/3d852ab0-cb17-45fa-ba10-9cecc6d1563c" height="200px"></td>
     <td><img src="https://github.com/paundra0217/paundra0217/blob/main/images/Peak%202024-09-18%2022-07-35.gif" height="200px"></td>
   </tr>
   <tr width="500px">
-          <td>Nightwalkers is a 2D action platformer game that tells about a hero named Luna that can harness the power of zodiac to protect the city of Starfield. My responsibilities in this project are creating user interface and applying its funcitonalities. <a href="https://github.com/paundra0217/Nightwalkers">More Information</a></td>
-      <td>Peak is a 2D pixel art platformer game that tells a story about an ordinary boy who have dream to reach the top of Seraphim Mountain and uncover its secrets. My responsibilities as a programmer are everything, including implementing mechanics and object interactivity from prototyping to a final polished product. <a href="https://github.com/paundra0217/peak">More Information</a></td>
+          <td>Nightwalkers is a 2D action platformer game that tells about a hero named Luna that can harness the power of zodiac to protect the city of Starfield. My responsibilities in this project are creating user interface and applying its funcitonalities. <a href="https://github.com/paundra0217/Nightwalkers" target="_blank">More Information</a></td>
+      <td>Peak is a 2D pixel art platformer game that tells a story about an ordinary boy who have dream to reach the top of Seraphim Mountain and uncover its secrets. My responsibilities as a programmer are everything, including implementing mechanics and object interactivity from prototyping to a final polished product. <a href="https://github.com/paundra0217/peak" target="_blank">More Information</a></td>
   </tr>
 <!--           <tr>
     <th width="500px"> Mystic Frontier</th>
