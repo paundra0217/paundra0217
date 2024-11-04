@@ -20,7 +20,7 @@ Currently pursuing a Computer Science degree at BINUS University, with specializ
   </tr>
   <tr width="500px">
       <td>Batavia Outbreak is a 3D top down shooter game which tells about a survivor who's exploring a place in which were swarmed by infectious creatures. My responsibilities as a programmer are everything, including implementing mechanics, object interactivity, and user interfaces from prototyping to a final polished product. This is an ongoing project and the end result may be different. <a href="https://github.com/paundra0217/batavia-outbreak">More Information</a></td>
-    <td>Echoes Beneath is a 3D Horror game which tells about a plumber who is doing his normal shift when suddenly a strange creature appear inside his workplace. My responsibilites are creating user interfaces and several backends to make the game functional. <a href="https://github.com/paundra0217/Echoes_Beneath">More Information</a></td>
+    <td>Echoes Beneath is a short duration 3D Horror Game which tells about a plumber who is doing his normal shift in the sewers when suddenly a strange occurrences happens inside his workplace. My responsibilites are creating user interfaces and several backends to make the game functional. <a href="https://github.com/paundra0217/Echoes_Beneath">More Information</a></td>
   </tr>
   <tr>
       <th width="500px" align="center"> Nightwalkers</th>
