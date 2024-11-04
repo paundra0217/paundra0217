@@ -32,7 +32,7 @@ Currently pursuing a Computer Science degree at BINUS University, with specializ
   </tr>
   <tr width="500px">
           <td>Nightwalkers is a 2D action platformer game that tells about a hero named Luna that can harness the power of zodiac to protect the city of Starfield. My responsibilities in this project are creating user interface and applying its funcitonalities. <a href="https://github.com/paundra0217/Nightwalkers">More Information</a></td>
-      <td>Peak is a 2D platformer game that tells a story about a young man who is trying to climb to the top of a mountain. My responsibilities as a programmer are everything, including implementing mechanics and object interactivity from prototyping to a final polished product. <a href="https://github.com/paundra0217/peak">More Information</a></td>
+      <td>Peak is a 2D platformer game that tells a story about an ordinary boy who have dream to reach the top of Seraphim Mountain and uncover its secrets. My responsibilities as a programmer are everything, including implementing mechanics and object interactivity from prototyping to a final polished product. <a href="https://github.com/paundra0217/peak">More Information</a></td>
   </tr>
 <!--           <tr>
     <th width="500px"> Mystic Frontier</th>
