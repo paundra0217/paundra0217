@@ -15,8 +15,8 @@ Detail-oriented Software Engineer with a strong foundation in developing robust,
     <td><img src="https://paundra0217.github.io/img/meeting-app.png" height="200px"></td>
   </tr>
   <tr width="500px">
-      <td>Built a personal portfolio website using Next.js, Tailwind CSS, and Motion.dev to showcase projects and professional experience. Implemented a responsive design with optimized performance and deployed the site for cross-device accessibility. <a href="https://github.com/paundra0217/batavia-outbreak">More Information</a></td>
-    <td>Currently developing a full-stack web application with React, Laravel, and MySQL as a personal project. Rebuilt the system from an earlier MVP, introducing a refined database schema, optimized backend logic, and new features for appointment scheduling and management. Current preview image/GIF shown is the old legacy version, new revamp version is under development. <a href="https://github.com/paundra0217/meeting-scheduler">More Information</a></td>
+      <td>A personal portfolio website that showcases my professional work and experiences, built with Next.js, Tailwind, and Motion.dev. The website features a responsive design and simple animations, and deployed the site to GitHub Pages for cross-device accessibility.<a href="https://github.com/paundra0217/paundra0217.github.io">More Information</a></td>
+    <td>A simple meeting scheduler application that I currently re-developing from an older application, using React, Laravel and MySQL as a personal project, with more refined database schema, updated to the latest stable version of the framework and database, and the process of revamping core features to the application through cleaner code and project structuring. Current preview image/GIF shown is the old legacy version, as the new revamp version is under development. <a href="https://github.com/paundra0217/meeting-scheduler">More Information</a></td>
   </tr>
     <tr>
         <th width="500px" align="center"> <a href="https://nezux.itch.io/731-batavia-outbreak">Batavia Outbreak</th>
