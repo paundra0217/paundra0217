@@ -1,7 +1,7 @@
 ## Hi There👋
 
 ## About Me
-Detail-oriented Software Engineer with a strong foundation in developing robust, efficient, and scalable software solutions. Passionate about leveraging technical expertise and creative problem-solving to deliver innovative applications. Proficient in modern programming frameworks and eager to contribute to cutting-edge software development projects. <a href="https://paundra0217.github.io/">Visit my Website</a>
+A Software Engineer with a focus in developing a robust, efficient, and scalable software. Proficient in modern programming languages and frameworks, with the expertise in leveraging technical and problem-solving skills to deliver innovative solutions, and eagerly ready to contribute to cutting-edge software projects. <a href="https://paundra0217.github.io/">Visit my Website</a>
 
 ## ✨Featured Projects
 <table>
@@ -15,7 +15,7 @@ Detail-oriented Software Engineer with a strong foundation in developing robust,
     <td><img src="https://paundra0217.github.io/img/meeting-app.png" height="200px"></td>
   </tr>
   <tr width="500px">
-      <td>A personal portfolio website that showcases my professional work and experiences, built with Next.js, Tailwind, and Motion.dev. The website features a responsive design and simple animations, and deployed the site to GitHub Pages for cross-device accessibility.<a href="https://github.com/paundra0217/paundra0217.github.io">More Information</a></td>
+      <td>A personal portfolio website that showcases my professional work and experiences, built with Next.js, Tailwind, and Motion.dev. The website features a responsive design and simple animations, and deployed the site to GitHub Pages for cross-device accessibility. <a href="https://github.com/paundra0217/paundra0217.github.io">More Information</a></td>
     <td>A simple meeting scheduler application that I currently re-developing from an older application, using React, Laravel and MySQL as a personal project, with more refined database schema, updated to the latest stable version of the framework and database, and the process of revamping core features to the application through cleaner code and project structuring. Current preview image/GIF shown is the old legacy version, as the new revamp version is under development. <a href="https://github.com/paundra0217/meeting-scheduler">More Information</a></td>
   </tr>
     <tr>
