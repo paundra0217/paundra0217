@@ -1,8 +1,9 @@
 ## Hi There👋
 
-## About Me
-A Software Engineer with a focus in developing a robust, efficient, and scalable software. Proficient in modern programming languages and frameworks, with the expertise in leveraging technical and problem-solving skills to deliver innovative solutions, and eagerly ready to contribute to cutting-edge software projects. <a href="https://paundra0217.github.io/">Visit my Website</a>
+<!-- ## About Me -->
+Hello! I am Software Engineer with a focus in developing a robust, efficient, and scalable software. I am proficient in modern programming languages and frameworks, with the expertise in leveraging technical and problem-solving skills to deliver innovative solutions, and I eagerly ready to contribute to cutting-edge software projects. <a href="https://paundra0217.github.io/">Visit my Website</a>
 
+<!--
 ## ✨Featured Projects
 <table>
       <tbody>
@@ -51,6 +52,7 @@ A Software Engineer with a focus in developing a robust, efficient, and scalable
   <tr width="500px">
       <td>Mystic Frontier is a 2D turn based RPG using cards, where the story is inspired by mythology and folklore from Indonesia. My responsibilities are creating user interface and applying its functionlity, as well as working on several backends such as audio. <a href="https://github.com/Redacted-Studio/Mystic_Frontier">More Information</a></td>
   </tr> -->
+  <!--
   </tbody>
 </table>
 
@@ -61,6 +63,7 @@ The tools / technologies that I use are:
 - Unity
 - Visual Studio
 - Visual Studio Code
+-->
 
 <!--
 **paundra0217/paundra0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
