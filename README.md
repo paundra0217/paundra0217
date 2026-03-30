@@ -1,7 +1,9 @@
 ## Hi There👋
 
 <!-- ## About Me -->
-Hello! I am Software Engineer with a focus in developing a robust, efficient, and scalable software. I am proficient in modern programming languages and frameworks, with the expertise in leveraging technical and problem-solving skills to deliver innovative solutions, and I eagerly ready to contribute to cutting-edge software projects. <a href="https://paundra0217.github.io/">Visit my Website</a>
+I am Software Engineer with a focus in developing a robust, efficient, and scalable software. I am proficient in modern programming languages and frameworks, with the expertise in leveraging technical and problem-solving skills to deliver innovative solutions. I am eagerly ready to contribute to cutting-edge software projects. 
+
+### <a href="https://paundra0217.github.io/">Visit my Website</a>
 
 <!--
 ## ✨Featured Projects
