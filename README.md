@@ -2,7 +2,7 @@
 
 ## About Me
 - I am Software Engineer with a focus in developing a robust, efficient, and scalable software.
-- I am currently building **web applications and games**, and exploring in **AI Integrations, Technologies, and Applications**.
+- I have built **web applications and games**, and currently exploring in **AI Integrations, Technologies, and Applications**.
 - I am proficient in modern programming languages and frameworks, with the expertise in leveraging technical and problem-solving skills to deliver innovative solutions.
 - I am eagerly ready to contribute to cutting-edge software projects and solve real world problems.
 - You can visit my website by clicking here: https://paundra0217.github.io/
